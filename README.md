@@ -5,5 +5,5 @@ Aru is a language i created many years ago and im now deciding to perfect it for
 
 This Translator is writen in Python 3.8.9.
 
-03 / 04 / 23 Progress
-  50 words.
+03 / 04 / 23 Progress.
+ > 50 words.
